@@ -230,6 +230,13 @@
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16645/42797/"
  },
+ "https://bergson.com/event/bergson-gallery-fuehrung-15-november-2026": {
+  "description": "Entdecke SUPERMARK€T und I’LL SEE IT THROUGH THE CHERRY PIE bei einer inspirierenden Führung mit unseren Kunst-Expert:innen. Erfahre mehr über Kunst, Konsum und den Kunstmarkt sowie über Wahrnehmung, Wirklichkeit und digitale Bildwelten.",
+  "fetched": "2026-11-15",
+  "price": 15.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15260/42883/"
+ },
  "https://bergson.com/event/bergson-gallery-fuehrung-21-november-2026": {
   "description": "Entdecke SUPERMARK€T bei einer inspirierenden Führung mit unseren Kunst-Expert:innen. Erfahre mehr über Kunst, Konsum, soziale Medien und den Kunstmarkt und erlebe die Ausstellung mit neuen Perspektiven.",
   "fetched": "2026-11-12",
