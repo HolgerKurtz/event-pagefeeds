@@ -566,7 +566,7 @@
       <g:link>https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026</g:link>
       <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2511%2F908625%2F0049_JazzDinner_24102026_NikkiLindnerFotografie.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>89.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>11.12.2026</g:custom_label_0>
@@ -903,21 +903,6 @@
       <g:custom_label_1>jazz</g:custom_label_1>
       <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
       <g:custom_label_3>15:30</g:custom_label_3>
-    </item>
-    <item>
-      <g:id>ensemble-interchange-sweet-was-the-song-20-dezember-2026</g:id>
-      <g:title>Ensemble Interchange: „Sweet was the song“</g:title>
-      <g:description>Das Ensemble Interchange nimmt Dich mit „Sweet was the song“ auf eine musikalische Reise durch Renaissance und Barock – zwischen besinnlicher Weihnachtsstimmung und virtuoser Entdeckungsfreude.</g:description>
-      <g:link>https://bergson.com/event/ensemble-interchange-sweet-was-the-song-20-dezember-2026</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2498%2F8e009d%2FKopie-von-_A5A4514_by-Astrid-Ackermann.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
-      <g:price>20.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Bergson</g:brand>
-      <g:custom_label_0>20.12.2026</g:custom_label_0>
-      <g:custom_label_1>klassik</g:custom_label_1>
-      <g:custom_label_2>Barbastelle</g:custom_label_2>
-      <g:custom_label_3>17:00</g:custom_label_3>
     </item>
     <item>
       <g:id>jazzrausch-bigband-muenchner-symphoniker-20-12-26-3</g:id>
@@ -1620,7 +1605,7 @@
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>29.01.2027</g:custom_label_0>
-      <g:custom_label_1>jazz;klassik</g:custom_label_1>
+      <g:custom_label_1>klassik</g:custom_label_1>
       <g:custom_label_2>Barbastelle</g:custom_label_2>
       <g:custom_label_3>20:00</g:custom_label_3>
     </item>
