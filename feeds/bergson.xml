@@ -116,7 +116,7 @@
       <g:link>https://bergson.com/event/jazzrausch-bigband-euphoria-10-21-november-2026</g:link>
       <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2566%2F9e41bf%2F261023-JRBBEurphoria-byGeorgStirnweiss-22.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>21.11.2026</g:custom_label_0>
@@ -2808,21 +2808,6 @@
       <g:custom_label_1>klassik</g:custom_label_1>
       <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
       <g:custom_label_3>19:00</g:custom_label_3>
-    </item>
-    <item>
-      <g:id>jazzrausch-bigband-bergson-phil-eine-technosinfonie-05-juni-2027</g:id>
-      <g:title>Jazzrausch Bigband &amp; Bergson Phil’: Eine Technosinfonie</g:title>
-      <g:description>Außerirdisch, technoid und cineastisch: Die Jazzrausch Bigband präsentiert mit Richard Ruzickas „Technosinfonie“ ein spektakuläres Konzerterlebnis aus orchestraler Wucht, elektronischen Beats und immersiver Lichtshow. Gemeinsam mit den Streicher:innen der Bergson Phil’ verwandeln 29 Musiker:innen das Elektra Tonquartier in ein mitreißendes Klanguniversum voller Energie, Bass und Emotionen.</g:description>
-      <g:link>https://bergson.com/event/jazzrausch-bigband-bergson-phil-eine-technosinfonie-05-juni-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F1732%2Fdbea39%2FJRBB_15.11._Bergson_ShowPart2_SebastianReiter-45.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
-      <g:price>28.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Bergson</g:brand>
-      <g:custom_label_0>05.06.2027</g:custom_label_0>
-      <g:custom_label_1>jazz;partys-festivals</g:custom_label_1>
-      <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
-      <g:custom_label_3>20:30</g:custom_label_3>
     </item>
     <item>
       <g:id>elli-die-dampflokomotive-06-juni-2027</g:id>
