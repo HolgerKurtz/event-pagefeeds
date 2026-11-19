@@ -323,10 +323,10 @@
  },
  "https://bergson.com/event/bergson-silvesterdinner": {
   "description": "Feier Deinen Jahreswechsel stilvoll bei uns im Bergson! Mit einem erlesenen Vier-Gänge-Silvestermenü sowie einer ausgelassenen Party mit Live-Musik im Anschluss starten wir ins neue Jahr!",
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-19",
   "price": 220.0,
   "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16282/39318/"
+  "ticket": ""
  },
  "https://bergson.com/event/bergson-silvesterparty": {
   "description": "Auf geht’s, wir feiern gemeinsam ins neue Jahr! Unser großes Atrium und die Beletage bieten Dir und Deinen Freund:innen in der letzten Nacht des Jahres 2026 jede Menge Platz zum Tanzen und Feiern. Im denkmalgeschützten ehemaligen Heizwerk erwartet Dich ein Silvesterabend in spektakulärer Atmosphäre.",
@@ -390,6 +390,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16255/39151/"
+ },
+ "https://bergson.com/event/brunch-im-bergson-10-januar-2027": {
+  "description": "Im Bergson Kunstkraftwerk versorgen wir Dich am gemütlichsten Tag der Woche mit unserem entspannt-köstlichen Bergson Brunch: Duftender Kaffee, frisch zubereitete Eierspeisen, ofenfrisches Brot und Gebäck, Käse-, Wurst- und Schinkenspezialitäten, bayerische Weißwürscht' und alles weitere, was Dein Brunch-Herz begehren mag, tischen wir für Dich auf. Auch an Schleckermäulchen ist in Form feiner Desserts zum Abschluss gedacht. Es ist ganz einfach: vorbeikommen, Seele baumeln und verwöhnen lassen!",
+  "fetched": "2026-11-19",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
  },
  "https://bergson.com/event/brunch-im-bergson-15-november-2026": {
   "description": "Im Bergson Kunstkraftwerk versorgen wir Dich am gemütlichsten Tag der Woche mit unserem entspannt-köstlichen Bergson Brunch: Duftender Kaffee, frisch zubereitete Eierspeisen, ofenfrisches Brot und Gebäck, Käse-, Wurst- und Schinkenspezialitäten, bayerische Weißwürscht' und alles weitere, was Dein Brunch-Herz begehren mag, tischen wir für Dich auf. Auch an Schleckermäulchen ist in Form feiner Desserts zum Abschluss gedacht. Es ist ganz einfach: vorbeikommen, Seele baumeln und verwöhnen lassen!",
@@ -572,6 +579,13 @@
   "price": 15.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/17054/42669/"
+ },
+ "https://bergson.com/event/die-verlorene-ehre-der-elly-ney-08-maerz-2027": {
+  "description": "Wie soll München mit der Ehrung der NS-belasteten Pianistin Elly Ney umgehen? Eine Podiumsdiskussion über historische Verantwortung, Erinnerungskultur und die mögliche Umbenennung des Elly-Ney-Wegs.",
+  "fetched": "2026-11-19",
+  "price": 0.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18098/48266/"
  },
  "https://bergson.com/event/dr-manfred-luetz-wie-du-unvermeidlich-gluecklich-wirst-05-maerz-2027": {
   "description": "Bestsellerautor und Psychiater Dr. Manfred Lütz zeigt in der Bergson Akademie mit Humor und Tiefgang, was wirklich glücklich macht und wie Du Dein eigenes Glück finden kannst.",
@@ -995,10 +1009,10 @@
  },
  "https://bergson.com/event/jazzrausch-bigband-euphoria-13-20-november-2026": {
   "description": "Die Jazzrausch Bigband stellt ihr neues Album Euphoria vor! Musik mit Ursprung im Club – und wie geschaffen für diesen Ort. In der Barbastelle – benannt nach der Fledermaus Barbastella barbastellus – kommen die Freund:innen der nächtlichen Unterhaltung zusammen: jene, die das Dämmerlicht lieben und Konzerte aus nächster Nähe erleben wollen. Mit dem intensiven Gefühl einer engen, schwitzigen Clubshow, bei der sich die 15 Musiker:innen und das Publikum die Getränke reichen können. Kein Bühnengraben, keine Barrieren. Eine Hommage an all Nächte im Technoclub – prägend für die Jazzrausch Bigband und ihr Publikum.",
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-19",
   "price": 28.0,
-  "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15993/40707/"
+  "sold_out": true,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15993/"
  },
  "https://bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-18-12-26-1": {
   "description": "Nach dem grandiosen Erfolg der letzten Jahre mit restlos ausverkauften Konzerten präsentieren die Jazzrausch Bigband und die Münchner Symphoniker ihr neu zusammengestelltes Weihnachtsprogramm. Hinzugekommen sind Stücke aus dem beliebten Programm „Am Weihnachtsabend“ – Vertonungen weihnachtlicher Gedichte, die den festlichen Abend noch stimmungsvoller machen.",
@@ -1363,6 +1377,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15123/41022/"
+ },
+ "https://bergson.com/event/osterbrunch-im-bergson-28-maerz-2027": {
+  "description": "Am Ostersonntag versorgen wir Dich mit unserem entspannt-köstlichen Bergson Brunch: Duftender Kaffee, frisch zubereitete Eierspeisen, ofenfrisches Brot und Gebäck, Käse-, Wurst- und Schinkenspezialitäten, bayerische Weißwürscht' und alles weitere, was Dein Brunch-Herz begehren mag, tischen wir für Dich auf. Auch an Schleckermäulchen ist in Form feiner Desserts zum Abschluss gedacht. Es ist ganz einfach: vorbeikommen, Seele baumeln und verwöhnen lassen! Gut gestärkt kannst Du nach dem Brunch bei kostenfreiem Eintritt durch unsere Galerieflächen im Neubau und den Silos streifen.",
+  "fetched": "2026-11-19",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
  },
  "https://bergson.com/event/passionskonzert-der-bergson-voices-26-maerz-2027": {
   "description": "Das Passionskonzert der Bergson Voices lädt auch heuer zu Einkehr und Besinnung ein. Neben der „Johannes-Passion“ von Johannes X. Schachtner erklingt Giovanni Pergolesis berühmtes „Stabat mater“, das der Komponist kurz vor seinem frühen Tod mit nur 26 Jahren schrieb. Die berührende Vertonung zeigt Maria nicht als entrückte Himmelskönigin, sondern als leidende Mutter – und gerade diese Menschlichkeit macht das Werk bis heute so bewegend und unmittelbar.",

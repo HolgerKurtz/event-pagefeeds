@@ -56,7 +56,7 @@
       <g:link>https://bergson.com/event/jazzrausch-bigband-euphoria-13-20-november-2026</g:link>
       <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2566%2F9e41bf%2F261023-JRBBEurphoria-byGeorgStirnweiss-22.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>20.11.2026</g:custom_label_0>
@@ -1061,7 +1061,7 @@
       <g:link>https://bergson.com/event/bergson-silvesterdinner</g:link>
       <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F1767%2F91db6c%2FSimonHaseneder_DSC9808_24-12-31_.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>220.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>31.12.2026</g:custom_label_0>
@@ -2073,6 +2073,21 @@
       <g:custom_label_1>kabarett-comedy</g:custom_label_1>
       <g:custom_label_2>Barbastelle</g:custom_label_2>
       <g:custom_label_3>19:00</g:custom_label_3>
+    </item>
+    <item>
+      <g:id>die-verlorene-ehre-der-elly-ney-08-maerz-2027</g:id>
+      <g:title>Die verlorene Ehre der Elly Ney</g:title>
+      <g:description>Wie soll München mit der Ehrung der NS-belasteten Pianistin Elly Ney umgehen? Eine Podiumsdiskussion über historische Verantwortung, Erinnerungskultur und die mögliche Umbenennung des Elly-Ney-Wegs.</g:description>
+      <g:link>https://bergson.com/event/die-verlorene-ehre-der-elly-ney-08-maerz-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2610%2Fdb24d4%2FKulturKipptUhlfelder-16zu9.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>0.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>08.03.2027</g:custom_label_0>
+      <g:custom_label_1>akademie;wort</g:custom_label_1>
+      <g:custom_label_2>Barbastelle</g:custom_label_2>
+      <g:custom_label_3>20:00</g:custom_label_3>
     </item>
     <item>
       <g:id>die-natur-ist-kein-parteimitglied-10-maerz-2027</g:id>
