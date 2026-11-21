@@ -832,6 +832,13 @@
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16940/42426/"
  },
+ "https://bergson.com/event/healthn-harmony-festival-14-maerz-2027": {
+  "description": "Lass Dich bei unserem Health’n’Harmony Yogafestival von der perfekten Kombi aus inspirierendem Yoga und magischer Live-Musik verzaubern: Hier treffen die beruhigende Kraft fließender Bewegungen auf die emotionale Tiefe live gespielter Instrumente – und das in unseren verschiedenen, spektakulären Räumlichkeiten.",
+  "fetched": "2026-11-21",
+  "price": 44.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10132/48265/"
+ },
  "https://bergson.com/event/hilde-timbre-12-maerz-2027": {
   "description": "„hilde“ ist zurück: Im April 2024 war das All female Quartett, das in NRW und London ansässig ist, eines der allerersten Gastspiele im Bergson. Damals präsentierten wir das Konzert von Marie Daniels (Gesang), Julia Brüssel (Geige), Emily Wittbrodt (Cello) und Maria Trautmann (Posaune) auf der Beletage und waren sofort ganz in den Bann gezogen. Dieses mal erwartet Dich hilde im Konzertsaal mit ihrem neuen Album „Timbre“ – voller zärtlicher, tief berührender Musik, die dazu einlädt, sich niederzulassen, ins Träumen zu geraten und die Welt draußen für einen Moment zu vergessen.",
   "fetched": "2026-11-12",
@@ -897,10 +904,10 @@
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
   "description": "Neues aus dem Bergson: Ab Oktober 2026 veranstalten wir einmal im Monat ein Jazz Dinner in unserem cozy Live Club im Untergeschoss. In der Barbastelle erwarten Dich wechselnde Jazz Ensembles und Themen. Dein Abend wird mit einem Vorspeisenbuffet, einem Hauptgang und einem Dessertbuffet begleitet.",
-  "fetched": "2026-11-17",
+  "fetched": "2026-11-21",
   "price": 89.0,
-  "sold_out": true,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/"
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/41998/"
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-12-maerz-2027": {
   "description": "Jazz Dinner im Bergson: Ab Oktober 2026 erwarten Dich monatlich Jazz, wechselnde Ensembles und ein exklusives Dinner in der Barbastelle.",
