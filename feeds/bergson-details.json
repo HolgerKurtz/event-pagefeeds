@@ -904,10 +904,10 @@
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
   "description": "Neues aus dem Bergson: Ab Oktober 2026 veranstalten wir einmal im Monat ein Jazz Dinner in unserem cozy Live Club im Untergeschoss. In der Barbastelle erwarten Dich wechselnde Jazz Ensembles und Themen. Dein Abend wird mit einem Vorspeisenbuffet, einem Hauptgang und einem Dessertbuffet begleitet.",
-  "fetched": "2026-11-21",
+  "fetched": "2026-11-22",
   "price": 89.0,
-  "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/41998/"
+  "sold_out": true,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/"
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-12-maerz-2027": {
   "description": "Jazz Dinner im Bergson: Ab Oktober 2026 erwarten Dich monatlich Jazz, wechselnde Ensembles und ein exklusives Dinner in der Barbastelle.",
@@ -1198,10 +1198,10 @@
  },
  "https://bergson.com/event/lucky-punch-22-november-2026-1": {
   "description": "Obacht, dieses Programm mobilisiert Deine Lachmuskeln! In Münchens coolstem neuen Live Club, unserer Barbastelle, erwartet Dich ein Sonntag voll scharfsinniger Jokes, kurioser Alltagsgeschichten und frecher Pointen, denn der „Lucky Punch Comedy Club” ist im Bergson zu Gast! Lehn Dich zurück und lass aden Alltag hinter Dir – in lockerer Atmosphäre, mit aufstrebenden Stand-Up-Comedians, leckeren Snacks und erstklassigen Drinks.",
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-22",
   "price": 24.0,
-  "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10325/39868/"
+  "sold_out": true,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10325/"
  },
  "https://bergson.com/event/lucky-punch-22-november-2026-2": {
   "description": "Obacht, dieses Programm mobilisiert Deine Lachmuskeln! In Münchens coolstem neuen Live Club, unserer Barbastelle, erwartet Dich ein Sonntag voll scharfsinniger Jokes, kurioser Alltagsgeschichten und frecher Pointen, denn der „Lucky Punch Comedy Club” ist im Bergson zu Gast! Lehn Dich zurück und lass aden Alltag hinter Dir – in lockerer Atmosphäre, mit aufstrebenden Stand-Up-Comedians, leckeren Snacks und erstklassigen Drinks.",
