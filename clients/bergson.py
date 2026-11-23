@@ -4,8 +4,8 @@ Source: https://bergson.com/events/filter — the internal endpoint the /program
 page calls via AJAX. Without filter params it returns an HTML fragment with
 *all* upcoming events (no pagination). Every event has its own /event/<slug> page.
 
-Page feed (CSV): events that aren't sold out ("Ausverkauft" in program-extra).
-Product feed (XML): all events; sold-out ones are "out of stock".
+Google feed (CSV): events that aren't sold out ("Ausverkauft" in program-extra).
+Meta feed (XML): all events; sold-out ones are "out of stock".
 
 Labels: genre slugs like "klassik;jazz".
 
@@ -26,7 +26,7 @@ Links to a series (/tickets/<group>/ without an event number) list several dates
 the row is then found by date and time.
 "Ausverkauft!" in the shop row also makes the event out of stock; it then keeps the
 last known price (the shop no longer shows one).
-Events without a ticket link or price are left out of the product feed.
+Events without a ticket link or price are left out of the Meta feed.
 Description and price are cached in feeds/bergson-details.json (30 days, see
 DetailsCache) and re-fetched when the ticket link changes.
 """
@@ -163,7 +163,7 @@ def scrape():
             "venue": field(ev, "location"),
             "labels": sorted(set(re.findall(r'data-filter-events-mood-slug-param="([^"]+)"', ev))),
             "available": not listed_sold_out and not details.get("sold_out"),
-            "price": f"{price:.2f} EUR" if price is not None else None,  # none: left out of product feed
+            "price": f"{price:.2f} EUR" if price is not None else None,  # none: left out of Meta feed
             # Some file names contain commas; encode them so no feed consumer splits the URL.
             "image_url": (f"{BASE}/file/show/{img.group(1)}/{html.unescape(img.group(2))}".replace(",", "%2C")
                           if img else None),

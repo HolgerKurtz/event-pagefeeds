@@ -13,7 +13,7 @@ Labels: venue slug, e.g. "alte-stallhalle".
 Price: the regular advance price "VVK: 40,00 EUR" on the concert page (not the reduced
 member / 14–25 prices).
 Availability: out of stock if a visible "ausverkauft" or "keine Tickets" shows on the
-homepage entry or the concert page. Sold-out concerts are left out of the page feed.
+homepage entry or the concert page. Sold-out concerts are left out of the Google feed.
 Image: the homepage entry's image, largest size in its srcset; some are WebP, so
 CONVERT_IMAGES routes them through wsrv.nl. The concert page's slider uses the same
 picture (set via CSS), so there's no additional_image_link.
@@ -118,7 +118,7 @@ def scrape():
             "venue": venue,
             "labels": [slug(re.sub(r"\s*Rottweil$", "", venue))],
             "available": not sold_out,
-            "price": f"{price:.2f} EUR" if price is not None else None,  # none: left out of product feed
+            "price": f"{price:.2f} EUR" if price is not None else None,  # none: left out of Meta feed
             "image_url": largest_image(sec),
         })
     cache.save()

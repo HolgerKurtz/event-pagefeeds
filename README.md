@@ -1,12 +1,12 @@
 # Event feeds for Google Ads (DSA) and Meta catalogs
 
 Daily feeds with all upcoming events, per client:
-- a Google Ads **page feed** (`feeds/<client>.csv`), and
-- for clients that support it, a Meta **product feed** (`feeds/<client>.xml`, Google Base RSS).
+- a **Google feed** (`feeds/<client>.csv`) for Google Ads DSA, and
+- for clients that support it, a **Meta feed** (`feeds/<client>.xml`, Google Base RSS) for the Meta catalog.
 
-| Client | Source | Labels | Page feed (CSV) | Product feed (XML) |
+| Client | Source | Labels | Google feed (CSV) | Meta feed (XML) |
 |---|---|---|---|---|
-| `bergson` | bergson.com/events/filter (sold-out events only in the product feed) | genre slugs (`klassik;jazz`) | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.xml |
+| `bergson` | bergson.com/events/filter (sold-out events only in the Meta feed) | genre slugs (`klassik;jazz`) | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.xml |
 | `jazzfest` | jazzfest-rottweil.de (homepage = programme; concerts with their own page, not sold out) | venue slug (`alte-stallhalle`) | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/jazzfest.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/jazzfest.xml |
 | `staatsoper` | die-hamburgische-staatsoper.de/de/kalender (only pages with ≥1 future, not sold-out performance) | `oper` / `ballett` / `konzert` / `sonstiges` | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/staatsoper.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/staatsoper.xml |
 
@@ -22,7 +22,7 @@ Each client module has `ACTIVE = True`. Set it to `False` and the daily run skip
 client; its last feeds stay online unchanged. `python3 pagefeed.py <name>` still runs an
 inactive client by hand.
 
-## Product feed (Meta catalog)
+## Meta feed (Meta catalog)
 
 One item per production page. Fields: `g:id` (URL slug), `g:title`, `g:description`,
 `g:link`, `g:image_link`, `g:price` (lowest available ticket price, e.g. `7.00 EUR`),
@@ -61,7 +61,7 @@ other photos from the production's "Impression" gallery (Meta's format for this 
   no gallery. The Reservix shop blocks scripted requests and isn't used. The festival runs once a
   year, so between festivals the programme can be empty and the run fails: set `ACTIVE = False` then.
 - Pages without an image (side events such as tours, school programmes and talks) or without a
-  listed price (presale not open yet) are left out of the product feed. They stay in the page feed.
+  listed price (presale not open yet) are left out of the Meta feed. They stay in the Google feed.
 
 ## Load on the client sites
 
@@ -90,7 +90,7 @@ def scrape():
     return n_events, rows
 ```
 
-For a product feed as well, return a list of item dicts instead of `rows` and set `BRAND`
+For a Meta feed as well, return a list of item dicts instead of `rows` and set `BRAND`
 and `LINK` (see `clients/staatsoper.py` and the docstring of `pagefeed.py`).
 
 Run `python3 pagefeed.py <name>`, commit the module and the new `feeds/<name>.csv`.
@@ -103,7 +103,7 @@ A client's run fails (and its last good CSV stays live) if:
 - fewer than `MIN_EVENTS` events are found,
 - no URL has a label,
 - the feed would shrink by more than 50 % compared with the last run,
-- (product feed) too many items lack a price or an image (`MAX_INCOMPLETE`), or the
+- (Meta feed) too many items lack a price or an image (`MAX_INCOMPLETE`), or the
   first converted image doesn't come back as `200 image/jpeg`.
 
 The other clients are still updated; the workflow run is marked failed, which

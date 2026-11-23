@@ -103,7 +103,7 @@ a { color: var(--cal); }
 <main>
   <header style="display:flex;flex-direction:column;gap:12px">
     <h1>Staatsoper Feed Flow</h1>
-    <p class="lede">How <code>python3 pagefeed.py staatsoper</code> turns the opera's calendar into the Google Ads page feed and the Meta product feed, and where every value comes from. Numbers are from the run on 11.11.2026.</p>
+    <p class="lede">How <code>python3 pagefeed.py staatsoper</code> turns the opera's calendar into the Google feed and the Meta feed, and where every value comes from. Numbers are from the run on 11.11.2026.</p>
     <div class="legend" aria-label="Colour key">
       <span><i class="dot cal"></i>Calendar page</span>
       <span><i class="dot prod"></i>Production page (cached)</span>
@@ -172,27 +172,27 @@ a { color: var(--cal); }
     <div class="outputs">
       <div class="out">
         <span class="big">95 URLs</span>
-        <b>Page feed for Google Ads</b>
+        <b>Google feed</b>
         <span class="file">feeds/staatsoper.csv</span>
         <p class="note">Every page with at least one available performance, labelled <code>oper</code>, <code>ballett</code>, <code>konzert</code> or <code>sonstiges</code>. Same content as before this change.</p>
       </div>
       <div class="out">
         <span class="big">58 items</span>
-        <b>Product feed for Meta</b>
+        <b>Meta feed</b>
         <span class="file">feeds/staatsoper.xml</span>
         <p class="note">One item per page. Sold-out pages stay in as <code>out of stock</code> (none today). 26 items carry extra gallery photos, 269 in total.</p>
       </div>
       <div class="out">
         <span class="big drop">38 left out</span>
-        <b>Product feed only</b>
-        <span class="file">still in the page feed</span>
-        <p class="note">29 side events with no image of their own (tours, school programmes, talks, kids' concerts) and 9 pages with no price listed yet, e.g. Matthäus-Passion and Scirocco. Those 9 join the product feed once the site shows a price.</p>
+        <b>Meta feed only</b>
+        <span class="file">still in the Google feed</span>
+        <p class="note">29 side events with no image of their own (tours, school programmes, talks, kids' concerts) and 9 pages with no price listed yet, e.g. Matthäus-Passion and Scirocco. Those 9 join the Meta feed once the site shows a price.</p>
       </div>
     </div>
   </section>
 
   <section>
-    <h2>Where each product feed field comes from</h2>
+    <h2>Where each Meta feed field comes from</h2>
     <p class="note">Example: Wunderland (Hamburg Ballett). Its page has no meta description, so the description falls back to the calendar subtitle.</p>
     <div class="tablewrap">
       <table>

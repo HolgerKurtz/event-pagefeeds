@@ -9,8 +9,8 @@ A performance is "available" if it
 - is not sold out, i.e. the ticket button does not say "Ausverkauft" or
   "Aktuell keine Karten". ("VVK: <date>" = presale not started yet counts as available.)
 
-Page feed (CSV): pages with at least one available performance.
-Product feed (XML): all pages with a future performance; pages without an
+Google feed (CSV): pages with at least one available performance.
+Meta feed (XML): all pages with a future performance; pages without an
 available one are "out of stock".
 
 Labels: the category shown in the calendar ("oper", "ballett", "konzert");
@@ -74,7 +74,7 @@ def load_details(url):
     else:
         # Many side events have no og:image; then the first gallery photo is the main image.
         # Some (tours, school programmes, talks) have no image at all: cached as "" so they
-        # aren't re-fetched daily, and left out of the product feed.
+        # aren't re-fetched daily, and left out of the Meta feed.
         image = gallery[0] if gallery else ""
     file_name = lambda u: u.split("?")[0].rsplit("/", 1)[-1]
     gallery = [g for g in gallery if file_name(g) != file_name(image)][:MAX_ADDITIONAL_IMAGES]
@@ -148,7 +148,7 @@ def scrape():
             "venue": nxt["venue"],
             "labels": sorted({p["label"] for p in relevant}),
             "available": bool(avail),
-            "price": f"{price:.2f} EUR" if price else None,  # none listed: left out of product feed
+            "price": f"{price:.2f} EUR" if price else None,  # none listed: left out of Meta feed
             "image_url": details.get("image"),
             "additional_images": details.get("gallery", []),
         })

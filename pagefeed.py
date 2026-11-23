@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-"""Build Google Ads DSA page feeds (CSV) of upcoming events, one per client.
+"""Build Google feeds (CSV, for Google Ads DSA) of upcoming events, one per client.
 
 Each client is a module in clients/ that knows how to scrape its own website.
 It must define:
 
     MIN_EVENTS = 50          # fewer events than this means parsing or the site broke
-    def scrape():            # -> (event_count, {page_url: [label, ...]})   page feed only
-                             # or (event_count, [item, ...])                 page + product feed
+    def scrape():            # -> (event_count, {page_url: [label, ...]})   Google feed only
+                             # or (event_count, [item, ...])                 Google + Meta feed
 
 Optional:
     ACTIVE = False           # skip when running all clients (can still be run by name)
     MAX_DROP = 0.5           # fail if the feed shrinks by more than this fraction
-    BRAND, LINK              # product feed: g:brand and the channel link (required with items)
-    CONVERT_IMAGES = True    # product feed: route images through wsrv.nl to get JPEGs
-    MAX_INCOMPLETE = 0.1     # product feed: items without price/image are left out;
+    BRAND, LINK              # Meta feed: g:brand and the channel link (required with items)
+    CONVERT_IMAGES = True    # Meta feed: route images through wsrv.nl to get JPEGs
+    MAX_INCOMPLETE = 0.1     # Meta feed: items without price/image are left out;
                              # fail if more than this fraction is left out
 
 An item is a dict with id, url, title, description, date (datetime), venue,
@@ -128,7 +128,7 @@ def check_image(url):
 
 
 REQUIRED = ("id", "title", "url")
-OPTIONAL = ("price", "image_url")   # items lacking these are left out of the product feed
+OPTIONAL = ("price", "image_url")   # items lacking these are left out of the Meta feed
 
 
 def check_items(client, items):
@@ -141,7 +141,7 @@ def check_items(client, items):
     ok = [it for it in items if all(it.get(k) for k in OPTIONAL)]
     dropped = len(items) - len(ok)
     if dropped:
-        print(f"{client.__name__.split('.')[-1]}: {dropped} items without price or image left out of product feed")
+        print(f"{client.__name__.split('.')[-1]}: {dropped} items without price or image left out of Meta feed")
     if dropped > len(items) * getattr(client, "MAX_INCOMPLETE", 0.1):
         raise FeedError(f"{dropped}/{len(items)} items lack price or image – markup may have changed.")
     if getattr(client, "CONVERT_IMAGES", False):
@@ -229,7 +229,7 @@ def run(name):
     if items is not None and xml_out.exists():
         prev = xml_out.read_text(encoding="utf-8").count("<item>")
         if len(items) < prev * (1 - getattr(client, "MAX_DROP", 0.5)):
-            raise FeedError(f"Product feed would shrink from {prev} to {len(items)} items – refusing to overwrite.")
+            raise FeedError(f"Meta feed would shrink from {prev} to {len(items)} items – refusing to overwrite.")
 
     xml = to_xml(client, items) if items is not None else None
     out.write_text(to_csv(rows), encoding="utf-8")
