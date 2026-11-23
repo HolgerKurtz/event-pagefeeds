@@ -7,6 +7,7 @@ Daily feeds with all upcoming events, per client:
 | Client | Source | Labels | Page feed (CSV) | Product feed (XML) |
 |---|---|---|---|---|
 | `bergson` | bergson.com/events/filter (sold-out events only in the product feed) | genre slugs (`klassik;jazz`) | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/bergson.xml |
+| `jazzfest` | jazzfest-rottweil.de (homepage = programme; concerts with their own page, not sold out) | venue slug (`alte-stallhalle`) | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/jazzfest.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/jazzfest.xml |
 | `staatsoper` | die-hamburgische-staatsoper.de/de/kalender (only pages with ≥1 future, not sold-out performance) | `oper` / `ballett` / `konzert` / `sonstiges` | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/staatsoper.csv | https://raw.githubusercontent.com/HolgerKurtz/event-pagefeeds/main/feeds/staatsoper.xml |
 
 - `pagefeed.py` – shared runner: fetches, sanity-checks and writes the feeds. Python stdlib only.
@@ -53,6 +54,12 @@ other photos from the production's "Impression" gallery (Meta's format for this 
   (free companion ticket) becomes `SOCIAL_PRICE` (28.00 EUR). "Ausverkauft!" there also
   makes the event out of stock. Description and price are cached like the Staatsoper
   details (30 days), so only new events cause requests (event page + ticket page).
+- Jazzfest Rottweil: one item per concert page. Elementor keeps unused buttons ("ausverkauft",
+  "Aktuell keine Tickets verfügbar") hidden in the HTML; the scraper ignores widgets hidden on all
+  devices. Price = regular advance price ("VVK: 40,00 EUR") on the concert page, not the member or
+  14–25 prices. Image = the homepage entry's picture (largest srcset size, WebP → JPEG via wsrv.nl);
+  no gallery. The Reservix shop blocks scripted requests and isn't used. The festival runs once a
+  year, so between festivals the programme can be empty and the run fails: set `ACTIVE = False` then.
 - Pages without an image (side events such as tours, school programmes and talks) or without a
   listed price (presale not open yet) are left out of the product feed. They stay in the page feed.
 
