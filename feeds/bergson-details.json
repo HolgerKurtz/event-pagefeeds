@@ -258,6 +258,20 @@
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15260/48430/"
  },
+ "https://bergson.com/event/bergson-gallery-09-januar-2027": {
+  "description": "Entdecke bei einer Führung mit unseren Kunst-Expert:innen die aktuellen Ausstellungen im Bergson: SUPERMARK€T, MONACO FRANZE 100 und I’LL SEE IT THROUGH THE CHERRY PIE. Erfahre spannende Hintergründe zu den Kunstwerken und Künstler:innen.",
+  "fetched": "2026-11-25",
+  "price": 15.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15260/48437/"
+ },
+ "https://bergson.com/event/bergson-gallery-10-januar-2027": {
+  "description": "Entdecke bei einer Führung mit unseren Kunst-Expert:innen die aktuellen Ausstellungen im Bergson: SUPERMARK€T, MONACO FRANZE 100 und I’LL SEE IT THROUGH THE CHERRY PIE. Erfahre spannende Hintergründe zu den Kunstwerken und Künstler:innen.",
+  "fetched": "2026-11-25",
+  "price": 15.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15260/48436/"
+ },
  "https://bergson.com/event/bergson-gallery-12-dezember-2026": {
   "description": "Entdecke bei einer Führung mit unseren Kunst-Expert:innen die aktuellen Ausstellungen im Bergson: SUPERMARK€T, MONACO FRANZE 100 und I’LL SEE IT THROUGH THE CHERRY PIE. Erfahre spannende Hintergründe zu den Kunstwerken und Künstler:innen.",
   "fetched": "2026-11-24",
@@ -446,6 +460,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16255/39151/"
+ },
+ "https://bergson.com/event/br-clubkonzert-bangers-ballads-13-januar-2027": {
+  "description": "Gitarrist Philipp Schiepek und Trompeter Lorenz Widauer verbinden in „Bangers & Ballads“ energiegeladenen Jazz mit poetischen Balladen, feinen Klangnuancen und melodischer Vielfalt – live im Bergson.",
+  "fetched": "2026-11-25",
+  "price": 28.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10287/48277/"
  },
  "https://bergson.com/event/brunch-im-bergson-07-februar-2027": {
   "description": "Im Bergson Kunstkraftwerk versorgen wir Dich am gemütlichsten Tag der Woche mit unserem entspannt-köstlichen Bergson Brunch: Duftender Kaffee, frisch zubereitete Eierspeisen, ofenfrisches Brot und Gebäck, Käse-, Wurst- und Schinkenspezialitäten, bayerische Weißwürscht' und alles weitere, was Dein Brunch-Herz begehren mag, tischen wir für Dich auf. Auch an Schleckermäulchen ist in Form feiner Desserts zum Abschluss gedacht. Es ist ganz einfach: vorbeikommen, Seele baumeln und verwöhnen lassen!",
@@ -1030,10 +1051,10 @@
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
   "description": "Neues aus dem Bergson: Ab Oktober 2026 veranstalten wir einmal im Monat ein Jazz Dinner in unserem cozy Live Club im Untergeschoss. In der Barbastelle erwarten Dich wechselnde Jazz Ensembles und Themen. Dein Abend wird mit einem Vorspeisenbuffet, einem Hauptgang und einem Dessertbuffet begleitet.",
-  "fetched": "2026-11-22",
+  "fetched": "2026-11-25",
   "price": 89.0,
-  "sold_out": true,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/"
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/41998/"
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-12-maerz-2027": {
   "description": "Jazz Dinner im Bergson: Ab Oktober 2026 erwarten Dich monatlich Jazz, wechselnde Ensembles und ein exklusives Dinner in der Barbastelle.",
