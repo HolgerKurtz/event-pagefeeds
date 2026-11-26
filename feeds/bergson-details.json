@@ -99,10 +99,10 @@
  },
  "https://bergson.com/event/alessandro-capasso-03-dezember-2026": {
   "description": "Alessandro Capasso alias „Der Münchner“ bringt seine beliebtesten Social-Media-Figuren erstmals live auf die Bühne. Freue Dich auf einen interaktiven Comedy-Abend voller bayerischem Humor, Improvisation und überraschender Gäste.",
-  "fetched": "2026-11-12",
-  "price": null,
+  "fetched": "2026-11-26",
+  "price": 15.0,
   "sold_out": false,
-  "ticket": ""
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/17029/47799/"
  },
  "https://bergson.com/event/alle-beethoven-symphonien-von-franz-liszt": {
   "description": "Die neun Beethoven-Symphonien in der Bearbeitung von Franz Liszt gehören zu den größten Herausforderungen der Klavierliteratur. Was sonst ein ganzes Orchester spielt, muss hier ein:e Pianist:in allein bewältigen. Den Auftakt des selten gespielten Gesamtzyklus gestaltet Steinway Prizewinner Jiaxin Min mit Beethovens 1. Symphonie und der monumentalen „Eroica“. Ein außergewöhnliches Konzerterlebnis, das Beethoven und Liszt zugleich hörbar macht.",
@@ -565,6 +565,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/15115/42493/"
+ },
+ "https://bergson.com/event/champagne-and-dine-05-februar-2027": {
+  "description": "Erlebe einen genussvollen Champagner-Abend im Restaurant Zeitlang mit Taittinger: Vier Champagner treffen auf ein abgestimmtes Vier-Gänge-Menü und spannende Einblicke in die Welt des traditionsreichen Champagnerhauses.",
+  "fetched": "2026-11-26",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
  },
  "https://bergson.com/event/champagne-and-dine-19-februar-2027": {
   "description": "Erlebe einen genussvollen Champagner-Abend im Restaurant Zeitlang mit Taittinger: Vier Champagner treffen auf ein abgestimmtes Vier-Gänge-Menü und spannende Einblicke in die Welt des traditionsreichen Champagnerhauses.",
@@ -1212,10 +1219,10 @@
  },
  "https://bergson.com/event/joachim-gauck-ueber-demokratie-und-freiheit-03-dezember-2026": {
   "description": "Gemeinsam mit Bundespräsident a.D. Joachim Gauck diskutieren wir die Herausforderungen für Demokratie und Freiheit in Europa. Ein spannender Abend über gesellschaftlichen Wandel, politische Verantwortung und die Zukunft unserer liberalen Demokratie.",
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-26",
   "price": 15.0,
   "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16994/42183/"
+  "ticket": ""
  },
  "https://bergson.com/event/joshua-milo-band-wait-what-07-mai-2027": {
   "description": "Joshua Milo präsentiert sein neues Album „WAIT WHAT“ mit 7-köpfiger Live-Band: virtuoser Jazz-Fusion, explosive Energie, überraschende Wendungen und jede Menge Spielfreude.",
