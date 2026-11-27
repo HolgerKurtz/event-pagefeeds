@@ -1,10 +1,38 @@
 {
+ "https://bergson.com/event/1-advent-im-bergson": {
+  "description": "An allen Adventssonntagen sowie am Sonntag zwischen den Jahren, dem 27. Dezember, sorgen wechselnde Live-Ensembles im Atrium für eine stimmungsvolle Weihnachtszeit. Ob bei einem heißen Getränk, kleinen Köstlichkeiten oder einfach zum Verweilen in der beeindruckenden Kesselhalle – Groß und Klein sind herzlich eingeladen, es sich in und um unsere Tagesbar Anima gemütlich zu machen, den Klängen zu lauschen und gemeinsam die besondere Atmosphäre im Bergson zu genießen. Der Eintritt ist frei.",
+  "fetched": "2026-11-27",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
+ },
+ "https://bergson.com/event/2-advent-im-bergson": {
+  "description": "An allen Adventssonntagen sowie am Sonntag zwischen den Jahren, dem 27. Dezember, sorgen wechselnde Live-Ensembles im Atrium für eine stimmungsvolle Weihnachtszeit. Ob bei einem heißen Getränk, kleinen Köstlichkeiten oder einfach zum Verweilen in der beeindruckenden Kesselhalle – Groß und Klein sind herzlich eingeladen, es sich in und um unsere Tagesbar Anima gemütlich zu machen, den Klängen zu lauschen und gemeinsam die besondere Atmosphäre im Bergson zu genießen. Der Eintritt ist frei.",
+  "fetched": "2026-11-27",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
+ },
  "https://bergson.com/event/20-jahre-odeon-jugendsinfonieorchester-13-februar-2027": {
   "description": "Seit 20 Jahren steht das ODEON Jugendsinfonieorchester München für Musizieren auf höchstem Niveau – mit zahlreichen Preisen und vielen ehemaligen Mitgliedern, die heute in großen Orchestern spielen. Zum Jubiläum kehren viele von ihnen ins ODEON-Festivalorchester zurück, um gemeinsam Beethovens kraftvolle „Eroica“ und Prokofjews spritzige „Klassische“ Symphonie aufzuführen.",
   "fetched": "2026-11-12",
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16752/41557/"
+ },
+ "https://bergson.com/event/3-advent-im-bergson": {
+  "description": "An allen Adventssonntagen sowie am Sonntag zwischen den Jahren, dem 27. Dezember, sorgen wechselnde Live-Ensembles im Atrium für eine stimmungsvolle Weihnachtszeit. Ob bei einem heißen Getränk, kleinen Köstlichkeiten oder einfach zum Verweilen in der beeindruckenden Kesselhalle – Groß und Klein sind herzlich eingeladen, es sich in und um unsere Tagesbar Anima gemütlich zu machen, den Klängen zu lauschen und gemeinsam die besondere Atmosphäre im Bergson zu genießen. Der Eintritt ist frei.",
+  "fetched": "2026-11-27",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
+ },
+ "https://bergson.com/event/4-advent-im-bergson": {
+  "description": "An allen Adventssonntagen sowie am Sonntag zwischen den Jahren, dem 27. Dezember, sorgen wechselnde Live-Ensembles im Atrium für eine stimmungsvolle Weihnachtszeit. Ob bei einem heißen Getränk, kleinen Köstlichkeiten oder einfach zum Verweilen in der beeindruckenden Kesselhalle – Groß und Klein sind herzlich eingeladen, es sich in und um unsere Tagesbar Anima gemütlich zu machen, den Klängen zu lauschen und gemeinsam die besondere Atmosphäre im Bergson zu genießen. Der Eintritt ist frei.",
+  "fetched": "2026-11-27",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
  },
  "https://bergson.com/event/5-000-jahre-weihnachten-13-dezember-2026": {
   "description": "Weihnachten gibt es schon seit mehr als 5.000 Jahren! Natürlich nicht als Geburtsfest von Jesus, das ist erst 2.000 Jahre alt. Die Bräuche und Festlichkeiten sind jedoch viel älter: Dieses Programm beantwortet Fragen zur Herkunft von Weihnachten, dem Christbaum und wirft einen Blick auf die Rolle des Alkohols bei all den Feierlichkeiten. Dazu spielen die Bergson Artists Weihnachtslieder aus aller Welt. Ein unterhaltsamer Abend voller humorvoller Geschichten, mit denen Du ganz sicher auf der nächsten Weihnachtsfeier für beeindruckte Gesichter und schallendes Gelächter sorgen wirst!",
@@ -99,10 +127,10 @@
  },
  "https://bergson.com/event/alessandro-capasso-03-dezember-2026": {
   "description": "Alessandro Capasso alias „Der Münchner“ bringt seine beliebtesten Social-Media-Figuren erstmals live auf die Bühne. Freue Dich auf einen interaktiven Comedy-Abend voller bayerischem Humor, Improvisation und überraschender Gäste.",
-  "fetched": "2026-11-26",
+  "fetched": "2026-11-27",
   "price": 15.0,
   "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/17029/47799/"
+  "ticket": ""
  },
  "https://bergson.com/event/alle-beethoven-symphonien-von-franz-liszt": {
   "description": "Die neun Beethoven-Symphonien in der Bearbeitung von Franz Liszt gehören zu den größten Herausforderungen der Klavierliteratur. Was sonst ein ganzes Orchester spielt, muss hier ein:e Pianist:in allein bewältigen. Den Auftakt des selten gespielten Gesamtzyklus gestaltet Steinway Prizewinner Jiaxin Min mit Beethovens 1. Symphonie und der monumentalen „Eroica“. Ein außergewöhnliches Konzerterlebnis, das Beethoven und Liszt zugleich hörbar macht.",
@@ -1874,6 +1902,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10500/42501/"
+ },
+ "https://bergson.com/event/weihnachtszeit-im-bergson": {
+  "description": "An allen Adventssonntagen sowie am Sonntag zwischen den Jahren, dem 27. Dezember, sorgen wechselnde Live-Ensembles im Atrium für eine stimmungsvolle Weihnachtszeit. Ob bei einem heißen Getränk, kleinen Köstlichkeiten oder einfach zum Verweilen in der beeindruckenden Kesselhalle – Groß und Klein sind herzlich eingeladen, es sich in und um unsere Tagesbar Anima gemütlich zu machen, den Klängen zu lauschen und gemeinsam die besondere Atmosphäre im Bergson zu genießen. Der Eintritt ist frei.",
+  "fetched": "2026-11-27",
+  "price": null,
+  "sold_out": false,
+  "ticket": ""
  },
  "https://bergson.com/event/wie-geht-echte-gleichstellung-23-juli-2027": {
   "description": "Prof. Dr. Jutta Allmendinger spricht in der Bergson Akademie darüber, warum Gleichstellung noch immer nicht selbstverständlich ist und wie Politik, Unternehmen und Gesellschaft echte Chancengleichheit schaffen können.",
