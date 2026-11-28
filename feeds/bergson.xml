@@ -5,21 +5,6 @@
     <link>https://bergson.com/programm</link>
     <description>Upcoming events – Bergson</description>
     <item>
-      <g:id>humorkonzert-27-november-2026</g:id>
-      <g:title>Humorkonzert</g:title>
-      <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
-      <g:link>https://bergson.com/event/humorkonzert-27-november-2026</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
-      <g:price>28.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Bergson</g:brand>
-      <g:custom_label_0>27.11.2026</g:custom_label_0>
-      <g:custom_label_1>klassik</g:custom_label_1>
-      <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
-      <g:custom_label_3>19:00</g:custom_label_3>
-    </item>
-    <item>
       <g:id>health-n-harmony-for-families-28-november-2026</g:id>
       <g:title>Health’n’Harmony for families</g:title>
       <g:description>Familienyoga im Bergson: Gemeinsam mit Kindern von 4 bis 11 Jahren erleben Erwachsene eine Yogastunde voller Bewegung, Musik und Freude. Spielerische Übungen, Geschichten und Lieder fördern Achtsamkeit, Kreativität und Verbundenheit für die ganze Familie.</g:description>
@@ -416,7 +401,7 @@
       <g:link>https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026</g:link>
       <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2511%2F908625%2F0049_JazzDinner_24102026_NikkiLindnerFotografie.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>89.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Bergson</g:brand>
       <g:custom_label_0>11.12.2026</g:custom_label_0>
@@ -1670,11 +1655,41 @@
       <g:custom_label_3>19:00</g:custom_label_3>
     </item>
     <item>
+      <g:id>faschingsball-der-bergson-phil-05-februar-2027</g:id>
+      <g:title>Faschingsball der Bergson Phil’</g:title>
+      <g:description>Feiere den ersten Faschingsball im Bergson Kunstkraftwerk! Freu Dich auf Live-Musik, vielfältige Tänze, eine Einführung für Anfänger:innen und ein rauschendes Fest mit Kostüm oder Glamour-Look in einzigartiger Atmosphäre.</g:description>
+      <g:link>https://bergson.com/event/faschingsball-der-bergson-phil-05-februar-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2635%2Fda9b07%2F_DSC9180_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>69.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>05.02.2027</g:custom_label_0>
+      <g:custom_label_1>klassik;partys-festivals;tanz-bewegung</g:custom_label_1>
+      <g:custom_label_2>Atrium</g:custom_label_2>
+      <g:custom_label_3>20:00</g:custom_label_3>
+    </item>
+    <item>
+      <g:id>faschingsball-der-bergson-phil-06-februar-2027</g:id>
+      <g:title>Faschingsball der Bergson Phil’</g:title>
+      <g:description>Feiere den ersten Faschingsball im Bergson Kunstkraftwerk! Freu Dich auf Live-Musik, vielfältige Tänze, eine Einführung für Anfänger:innen und ein rauschendes Fest mit Kostüm oder Glamour-Look in einzigartiger Atmosphäre.</g:description>
+      <g:link>https://bergson.com/event/faschingsball-der-bergson-phil-06-februar-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2635%2Fda9b07%2F_DSC9180_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>69.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>06.02.2027</g:custom_label_0>
+      <g:custom_label_1>klassik;partys-festivals;tanz-bewegung</g:custom_label_1>
+      <g:custom_label_2>Atrium</g:custom_label_2>
+      <g:custom_label_3>20:00</g:custom_label_3>
+    </item>
+    <item>
       <g:id>humorkonzert-07-februar-2027</g:id>
       <g:title>Humorkonzert</g:title>
       <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
       <g:link>https://bergson.com/event/humorkonzert-07-februar-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2639%2Fbbfc75%2FBERGSON_Humorkonzert_0283_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -1683,6 +1698,21 @@
       <g:custom_label_1>klassik</g:custom_label_1>
       <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
       <g:custom_label_3>16:00</g:custom_label_3>
+    </item>
+    <item>
+      <g:id>br-clubkonzert-shannon-barnett-quartet-10-februar-2027</g:id>
+      <g:title>BR Clubkonzert - Shannon Barnett Quartet</g:title>
+      <g:description>Posaunistin Shannon Barnett und ihr Quartett präsentieren mit „Human“ energiegeladenen Jazz voller virtuoser Spielfreude, überraschender Wendungen und berührender Geschichten über Begegnungen und Menschlichkeit.</g:description>
+      <g:link>https://bergson.com/event/br-clubkonzert-shannon-barnett-quartet-10-februar-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2625%2F25f9e0%2FShannon-Barnett-Quartet-%25233-%2528Foto_-Kilian-Amrehn%2529.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>28.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>10.02.2027</g:custom_label_0>
+      <g:custom_label_1>jazz</g:custom_label_1>
+      <g:custom_label_2>Barbastelle</g:custom_label_2>
+      <g:custom_label_3>19:00</g:custom_label_3>
     </item>
     <item>
       <g:id>true-crime-in-music-12-februar-2027</g:id>
@@ -1893,6 +1923,21 @@
       <g:custom_label_1>partys-festivals</g:custom_label_1>
       <g:custom_label_2>Barbastelle</g:custom_label_2>
       <g:custom_label_3>18:30</g:custom_label_3>
+    </item>
+    <item>
+      <g:id>san2-his-soul-patrol-27-februar-2027</g:id>
+      <g:title>San2 &amp; His Soul Patrol</g:title>
+      <g:description>Erlebe San2 &amp; Soul Patrol live im Bergson: Mit Songs aus dem neuen Album „Stoned on Love“, internationalen Soul-Stimmen und der Bergson Artists Brass Section erwartet Dich ein energiegeladener Abend voller Soul und Blues.</g:description>
+      <g:link>https://bergson.com/event/san2-his-soul-patrol-27-februar-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2634%2Fbaba09%2F01b-SAN2_2024_c_gregor_daniels.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>28.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>27.02.2027</g:custom_label_0>
+      <g:custom_label_1>jazz;partys-festivals</g:custom_label_1>
+      <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
+      <g:custom_label_3>19:00</g:custom_label_3>
     </item>
     <item>
       <g:id>peterchens-mondfahrt-28-februar-2027</g:id>
@@ -2274,7 +2319,7 @@
       <g:title>Humorkonzert</g:title>
       <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
       <g:link>https://bergson.com/event/humorkonzert-21-maerz-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2639%2Fbbfc75%2FBERGSON_Humorkonzert_0283_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -2709,7 +2754,7 @@
       <g:title>Humorkonzert</g:title>
       <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
       <g:link>https://bergson.com/event/humorkonzert-09-mai-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2639%2Fbbfc75%2FBERGSON_Humorkonzert_0283_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -2919,7 +2964,7 @@
       <g:title>Humorkonzert</g:title>
       <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
       <g:link>https://bergson.com/event/humorkonzert-12-juni-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2639%2Fbbfc75%2FBERGSON_Humorkonzert_0283_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -3069,7 +3114,7 @@
       <g:title>Humorkonzert</g:title>
       <g:description>Humor in all seinen Facetten: Die Bergson Phil’ und Maximilian Maier präsentieren Musik und Texte voller Witz, Ironie und Esprit. Auf dem Programm stehen Klassiker wie Richard Strauss' Till Eulenspiegel, die Ouvertüre zu Donna Diana sowie eigens komponierte Werke der Bergson Artists. Literarische Texte von Martial bis Gerhard Polt sorgen für einen ebenso geistreichen wie vergnüglichen Abend – ein Plädoyer für Heiterkeit und die Kraft des Lachens.</g:description>
       <g:link>https://bergson.com/event/humorkonzert-10-juli-2027</g:link>
-      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2202%2Fdc87e6%2FVIVACE_Bergson_Kunstkraftwerk8.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2639%2Fbbfc75%2FBERGSON_Humorkonzert_0283_bySimonHaseneder.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
       <g:price>28.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
@@ -3093,6 +3138,21 @@
       <g:custom_label_1>akademie;klassik</g:custom_label_1>
       <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
       <g:custom_label_3>16:00</g:custom_label_3>
+    </item>
+    <item>
+      <g:id>dr-gregor-gysi-wem-gehoert-die-stadt-12-juli-2027</g:id>
+      <g:title>Dr. Gregor Gysi: Wem gehört die Stadt</g:title>
+      <g:description>Dr. Gregor Gysi spricht in der Bergson Akademie über steigende Mieten, Wohnungspolitik und die Frage, wie sich Eigentum, Markt und Gemeinwohl miteinander vereinbaren lassen.</g:description>
+      <g:link>https://bergson.com/event/dr-gregor-gysi-wem-gehoert-die-stadt-12-juli-2027</g:link>
+      <g:image_link>https://wsrv.nl/?url=https%3A%2F%2Fbergson.com%2Ffile%2Fshow%2F2633%2F2ecb02%2FAkademie_Website_Artwork_270712_Mietwahnsinn%252C%2520Enteignung%2520und%2520die%2520Welt_261112_01%2520%25281%2529.jpg&amp;w=1200&amp;output=jpg&amp;q=85</g:image_link>
+      <g:price>25.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Bergson</g:brand>
+      <g:custom_label_0>12.07.2027</g:custom_label_0>
+      <g:custom_label_1>akademie;wort</g:custom_label_1>
+      <g:custom_label_2>Elektra Tonquartier</g:custom_label_2>
+      <g:custom_label_3>19:00</g:custom_label_3>
     </item>
     <item>
       <g:id>jazzrausch-bigband-bergson-phil-eine-technosinfonie-17-juli-2027</g:id>

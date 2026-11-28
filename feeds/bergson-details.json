@@ -496,6 +496,13 @@
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10287/48277/"
  },
+ "https://bergson.com/event/br-clubkonzert-shannon-barnett-quartet-10-februar-2027": {
+  "description": "Posaunistin Shannon Barnett und ihr Quartett präsentieren mit „Human“ energiegeladenen Jazz voller virtuoser Spielfreude, überraschender Wendungen und berührender Geschichten über Begegnungen und Menschlichkeit.",
+  "fetched": "2026-11-28",
+  "price": 28.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10287/48420/"
+ },
  "https://bergson.com/event/brunch-im-bergson-07-februar-2027": {
   "description": "Im Bergson Kunstkraftwerk versorgen wir Dich am gemütlichsten Tag der Woche mit unserem entspannt-köstlichen Bergson Brunch: Duftender Kaffee, frisch zubereitete Eierspeisen, ofenfrisches Brot und Gebäck, Käse-, Wurst- und Schinkenspezialitäten, bayerische Weißwürscht' und alles weitere, was Dein Brunch-Herz begehren mag, tischen wir für Dich auf. Auch an Schleckermäulchen ist in Form feiner Desserts zum Abschluss gedacht. Es ist ganz einfach: vorbeikommen, Seele baumeln und verwöhnen lassen!",
   "fetched": "2026-11-24",
@@ -769,6 +776,13 @@
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18098/48266/"
  },
+ "https://bergson.com/event/dr-gregor-gysi-wem-gehoert-die-stadt-12-juli-2027": {
+  "description": "Dr. Gregor Gysi spricht in der Bergson Akademie über steigende Mieten, Wohnungspolitik und die Frage, wie sich Eigentum, Markt und Gemeinwohl miteinander vereinbaren lassen.",
+  "fetched": "2026-11-28",
+  "price": 25.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18194/48602/"
+ },
  "https://bergson.com/event/dr-manfred-luetz-wie-du-unvermeidlich-gluecklich-wirst-05-maerz-2027": {
   "description": "Bestsellerautor und Psychiater Dr. Manfred Lütz zeigt in der Bergson Akademie mit Humor und Tiefgang, was wirklich glücklich macht und wie Du Dein eigenes Glück finden kannst.",
   "fetched": "2026-11-24",
@@ -824,6 +838,20 @@
   "price": 24.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/10497/40438/"
+ },
+ "https://bergson.com/event/faschingsball-der-bergson-phil-05-februar-2027": {
+  "description": "Feiere den ersten Faschingsball im Bergson Kunstkraftwerk! Freu Dich auf Live-Musik, vielfältige Tänze, eine Einführung für Anfänger:innen und ein rauschendes Fest mit Kostüm oder Glamour-Look in einzigartiger Atmosphäre.",
+  "fetched": "2026-11-28",
+  "price": 69.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18154/48526/"
+ },
+ "https://bergson.com/event/faschingsball-der-bergson-phil-06-februar-2027": {
+  "description": "Feiere den ersten Faschingsball im Bergson Kunstkraftwerk! Freu Dich auf Live-Musik, vielfältige Tänze, eine Einführung für Anfänger:innen und ein rauschendes Fest mit Kostüm oder Glamour-Look in einzigartiger Atmosphäre.",
+  "fetched": "2026-11-28",
+  "price": 69.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18154/48581/"
  },
  "https://bergson.com/event/fatih-cevikkollu-ki-kritische-intelligenz": {
   "description": "Fatih Çevikkollu – klug, kritisch, charmant und provokant – zeigt uns, wie wir mit Humor und Haltung durch den digitalen Dschungel navigieren können. Lache, denke, diskutiere – und stell Dir gemeinsam mit ihm die großen Fragen unserer Zeit.!",
@@ -1086,10 +1114,10 @@
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
   "description": "Neues aus dem Bergson: Ab Oktober 2026 veranstalten wir einmal im Monat ein Jazz Dinner in unserem cozy Live Club im Untergeschoss. In der Barbastelle erwarten Dich wechselnde Jazz Ensembles und Themen. Dein Abend wird mit einem Vorspeisenbuffet, einem Hauptgang und einem Dessertbuffet begleitet.",
-  "fetched": "2026-11-25",
+  "fetched": "2026-11-28",
   "price": 89.0,
-  "sold_out": false,
-  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/41998/"
+  "sold_out": true,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16846/"
  },
  "https://bergson.com/event/jazz-dinner-in-der-barbastelle-12-maerz-2027": {
   "description": "Jazz Dinner im Bergson: Ab Oktober 2026 erwarten Dich monatlich Jazz, wechselnde Ensembles und ein exklusives Dinner in der Barbastelle.",
@@ -1692,6 +1720,13 @@
   "price": 28.0,
   "sold_out": false,
   "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/16767/38577/"
+ },
+ "https://bergson.com/event/san2-his-soul-patrol-27-februar-2027": {
+  "description": "Erlebe San2 & Soul Patrol live im Bergson: Mit Songs aus dem neuen Album „Stoned on Love“, internationalen Soul-Stimmen und der Bergson Artists Brass Section erwartet Dich ein energiegeladener Abend voller Soul und Blues.",
+  "fetched": "2026-11-28",
+  "price": 28.0,
+  "sold_out": false,
+  "ticket": "https://tickets.bergson.com/de/buyingflow/tickets/18145/48421/"
  },
  "https://bergson.com/event/sara-brandhuber-a-scheena-schmarrn": {
   "description": "Sara Brandhuber begeistert mit frechem, bairischem Kabarett, absurden Alltagsgeschichten und viel Musik – gewohnt charmant und pointiert. Ein urkomischer Abend voller „scheenem Schmarrn“, bei dem man den Alltag getrost vergessen kann.",
